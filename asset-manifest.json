@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/slideo-challenge/static/css/main.d52a0e0a.chunk.css",
-    "main.js": "/slideo-challenge/static/js/main.b2abaac4.chunk.js",
-    "main.js.map": "/slideo-challenge/static/js/main.b2abaac4.chunk.js.map",
+    "main.js": "/slideo-challenge/static/js/main.65fccce8.chunk.js",
+    "main.js.map": "/slideo-challenge/static/js/main.65fccce8.chunk.js.map",
     "runtime-main.js": "/slideo-challenge/static/js/runtime-main.8c6ee69e.js",
     "runtime-main.js.map": "/slideo-challenge/static/js/runtime-main.8c6ee69e.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/slideo-challenge/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.99d615ae.chunk.js",
     "static/css/main.d52a0e0a.chunk.css",
-    "static/js/main.b2abaac4.chunk.js"
+    "static/js/main.65fccce8.chunk.js"
   ]
 }
