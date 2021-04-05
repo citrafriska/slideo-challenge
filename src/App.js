@@ -5,7 +5,7 @@ import MainPage from "./screens/Main";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/" component={MainPage} />
         </Switch>
