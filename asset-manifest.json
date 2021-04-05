@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/slideo-challenge/static/css/main.f7b387fa.chunk.css",
+    "main.js": "/slideo-challenge/static/js/main.4e2545d2.chunk.js",
+    "main.js.map": "/slideo-challenge/static/js/main.4e2545d2.chunk.js.map",
+    "runtime-main.js": "/slideo-challenge/static/js/runtime-main.8c6ee69e.js",
+    "runtime-main.js.map": "/slideo-challenge/static/js/runtime-main.8c6ee69e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/slideo-challenge/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.99d615ae.chunk.js": "/slideo-challenge/static/js/2.99d615ae.chunk.js",
+    "static/js/2.99d615ae.chunk.js.map": "/slideo-challenge/static/js/2.99d615ae.chunk.js.map",
+    "index.html": "/slideo-challenge/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/slideo-challenge/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f7b387fa.chunk.css.map": "/slideo-challenge/static/css/main.f7b387fa.chunk.css.map",
+    "static/js/2.99d615ae.chunk.js.LICENSE.txt": "/slideo-challenge/static/js/2.99d615ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c6ee69e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.99d615ae.chunk.js",
+    "static/css/main.f7b387fa.chunk.css",
+    "static/js/main.4e2545d2.chunk.js"
+  ]
+}
