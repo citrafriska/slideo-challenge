@@ -79,6 +79,13 @@
   cursor: pointer;
   font-weight: 700;
   font-size: 1rem;
+  padding: 0.2rem 0.8rem;
+  border-radius: 5px;
+  border: 1px solid transparent;
+}
+
+.header-new-presentation:hover {
+  border: 1px solid #272727;
 }
 
 .header-buttons {
