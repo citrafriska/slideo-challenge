@@ -56,21 +56,33 @@
 .header-btn {
   border: none;
   color: #ffffff;
-  border-radius: 5px;
+  border-radius: 18px;
   padding: 0.4rem 0.8rem;
-  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
+  box-shadow: 3px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 #blue-btn {
   background: #45a3b8;
 }
 
+#blue-btn:hover {
+  background: #3a8c9e;
+}
+
 #grey-btn {
   background: grey;
 }
 
+#grey-btn:hover {
+  background: rgb(107, 106, 106);
+}
+
 #red-btn {
   background: #dd4a45;
+}
+
+#red-btn:hover {
+  background: #b33631;
 }
 
 .header-new-presentation {
@@ -219,6 +231,10 @@
   box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
   color: #ffffff;
   font-size: 0.8rem;
+}
+
+.menu-design-layouts-btn:hover {
+  background: #286f92;
 }
 
 .menu-all-design-bar div {
