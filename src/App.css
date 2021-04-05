@@ -165,20 +165,22 @@
 }
 
 .menu-all-design-bar {
-  height: 70vh;
+  height: 73vh;
   width: 24vw;
   overflow-y: scroll;
   padding-left: 0.5rem;
   padding-top: 0.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .menu-all-design-bar::-webkit-scrollbar {
-  width: 15px;
+  width: 10px;
 }
 
 .menu-all-design-bar::-webkit-scrollbar-track {
   background: #f1f1f1;
   border-radius: 6px;
+  margin-bottom: 18px;
 }
 
 .menu-all-design-bar::-webkit-scrollbar-thumb {
@@ -190,16 +192,26 @@
   background: var(--primary-color-lighter);
 }
 
+.menu-design-layout-footer {
+  /* background: wheat; */
+  width: 24vw;
+  height: 10vh;
+  text-align: center;
+  box-shadow: 0 -7px 8px rgba(32, 32, 32, 0.678);
+}
+
 .menu-design-layouts-btn {
   background: #2b779c;
   border: none;
-  border-radius: 5px;
-  padding: 0.5rem;
-  width: 18vw;
+  border-radius: 30px;
+  padding: 0.4rem;
+  padding-top: 0.5rem;
+  width: 19vw;
   text-align: center;
   margin-top: 1rem;
   box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
   color: #ffffff;
+  font-size: 0.8rem;
 }
 
 .menu-all-design-bar div {

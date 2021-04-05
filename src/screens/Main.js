@@ -142,9 +142,11 @@ function Main({ slides, reset, clearSlides }) {
                     );
                   })}
                 </div>
-                <button className="menu-design-layouts-btn">
-                  DESIGN LAYOUTS
-                </button>
+                <div className="menu-design-layout-footer">
+                  <button className="menu-design-layouts-btn">
+                    DESIGN LAYOUTS
+                  </button>
+                </div>
               </div>
             </div>
             <div className="preview-section">
